@@ -1,0 +1,99 @@
+html {
+    height: 100%;
+  }
+  body {
+    margin:0;
+    padding:0;
+    font-family: sans-serif;
+    background: linear-gradient(#141e30, #243b55);
+    color:white;
+  }
+  
+  .login-box {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 400px;
+    padding: 40px;
+    transform: translate(-50%, -50%);
+    background: rgba(0,0,0,.5);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 10px;
+  }
+  input[type="email"]{
+    width: 100%;
+    padding: 8px 0;
+    font-size: 14px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+  }
+  textarea{
+    width: 100%;
+    background: transparent;
+    border: 1px solid white;
+    margin: 10px 0px;
+    font-size: 14px;
+    color: white;
+    padding: 0.5rem;
+  }
+  
+  .login-box h2 {
+    margin: 0 0 30px;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .login-box .user-box {
+    position: relative;
+  }
+  
+  .login-box .user-box input {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+  }
+  input[type="submit"]{
+    border: 1px solid rgb(14, 82, 128);
+    color: rgb(14, 82, 128);
+    font-weight: 900;
+    padding: 6px;
+    background: transparent;
+    font-size: 17px;
+  }
+  .link{
+    border: 1px solid rgb(14, 82, 128);
+    color: rgb(14, 82, 128);
+    font-weight: 900;
+    padding: 6px;
+    background: transparent;
+    margin-left: 20px;
+  }
+  a{
+    text-decoration: none;
+  }
+  .login-box .user-box label {
+    position: absolute;
+    top:0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    pointer-events: none;
+    transition: .5s;
+  }
+  
+  
+
+ 
