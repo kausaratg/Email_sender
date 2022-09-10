@@ -16,3 +16,5 @@ This is a webapp that sends email by just adding the recepient email and the mes
 8. Make migration    ```python manage.py makemigration```
 9. Migrate the project   ```python manage.py migrate```
 10. Run local Server  ```python manage.py runserver```
+
+It help Business owners communicate faster and cheaper with the customers. 
