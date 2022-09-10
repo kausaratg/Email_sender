@@ -1,5 +1,4 @@
-# Email_sender
-It sends mail to any email.
+
 # Email Sender
 This is a webapp that sends email by just adding the recepient email and the message.
 ## Description
