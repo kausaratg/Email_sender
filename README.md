@@ -7,8 +7,8 @@ This is a Django webapp that sends email by just adding the recepient email and 
 * It also make use of smtp to send mail to the user
 ## To install and run the project
 1. Create a django environment 
-2. clone the project             ```git clone https://github.com/kausaratg/resume_builder.git``` 
-3.  Enter into the directory         ```cd portfolio_app```
+2. clone the project             ```https://github.com/kausaratg/Email_sender.git``` 
+3.  Navigate into the directory         ```cd E-mail_sender```
 4.  Pull any recent change from main branch     ```git pull origin main```
 5.  create a virtual env   ```python -m venv env```
 6. Activate the virtual env   ```env/Scripts/activate```
