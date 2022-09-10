@@ -1,9 +1,9 @@
 
 # Email Sender
-This is a webapp that sends email by just adding the recepient email and the message.
+This is a Django webapp that sends email by just adding the recepient email and the message.
 ## Description
 * Email sender is made with Django, Python, HTML and CSS
-* It sends mail to the by adding the recepient email and the mail Content.
+* It sends mail to the recepient by adding the recepient email and the mail Content.
 * It also make use of smtp to send mail to the user
 ## To install and run the project
 1. Create a django environment 
